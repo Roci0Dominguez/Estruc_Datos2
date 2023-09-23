@@ -1,29 +1,4 @@
-namespace manejo_de_memoria
-{
-    class Program
-    {
-        const int maxf = 3;
-        const int maxc = 5;
-        static void Main(string[] args)
-        {
-            float[] a = new float (maxf, maxc);
-            int f, c;
-
-            //Leer el array
-            for (c=0, c< maxc; f++)
-            {
-                a[f, c] = float.Parse | Console.readline |||;
-            }
-            //Escribir el array
-            for (f=0; f<maxf, f++)
-            {
-                for (c=0, c maxc; c++)
-                {
-                    Console(a[f, c]+"")
-                }
-                Console.WriteLine();
-            }
-
-        }
-    }
-}
+numeros=[10, 20, 30, 40,50, 60]
+n=[3, 4, 5]
+c=['L', 'U', 'i', 's']
+s="Mona Lisa"
